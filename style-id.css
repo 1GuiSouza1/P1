@@ -1,0 +1,39 @@
+#div-topo{
+    background-color: #cbcbcb;
+    border: solid 5px gold;
+    margin: 10px 10px 20px 10px;
+    height: 70px;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr;
+}
+#nav-topo{
+    display: grid;
+    grid-template-rows: 1fr;
+    margin: 0px 0px 10px 20px;
+    height: 70px;
+}
+#ul-topo{
+    margin: 10px 0px 10px 0px;
+    height: 50px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    grid-template-rows: 1fr;
+}
+#main{
+    margin: 0px 60px 0px 60px;
+}
+#ul-footer{
+    margin: 35px 15px 0px 30px;
+    height: 120px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 1fr
+}
+#nav-footer{
+    color: aliceblue;
+}
+#div-footer{
+    margin: 30px 80px 30px 0px 
+}
+
+

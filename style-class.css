@@ -1,0 +1,22 @@
+.quatro-article{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+}
+.margin-aside{
+    width: 200px;
+    margin: 15px 15px 15px 40px;
+}
+.main-footer-fr{
+    display: grid;
+    grid-template-columns: 6fr 2fr;
+}
+.li-topo{
+    margin: 0px 10px 0px 0px;
+}
+.secao-main{
+    margin: 15px 15px 15px;
+}
+.li-footer{
+    margin: 0px 15px 0px 15px;
+}
